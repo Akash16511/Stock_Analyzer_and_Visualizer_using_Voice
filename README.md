@@ -80,7 +80,7 @@ This project does have menu such as ---->
 ![Screenshot 2022-12-22 130023](https://user-images.githubusercontent.com/86300718/209086473-8ad745c3-0741-4c91-91dd-4135c5db806e.png)
 
 
-# 7. Heat maps
+# 7. Correlation Heat maps
 
 ![Figure_1](https://user-images.githubusercontent.com/86300718/209086552-aa04e31b-7a50-4519-a7d8-1a5c5c2e18b7.png)
 
