@@ -251,7 +251,7 @@ def average_for_some_day_against_some_year_BAC():
 def average_for_some_day_against_some_year_JPM():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     JPM['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     JPM['Close'].loc[start_date:end_date].plot(label= 'JPM Close')
@@ -262,7 +262,7 @@ def average_for_some_day_against_some_year_JPM():
 def average_for_some_day_against_some_year_C():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     C['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     C['Close'].loc[start_date:end_date].plot(label= 'C Close')
@@ -273,7 +273,7 @@ def average_for_some_day_against_some_year_C():
 def average_for_some_day_against_some_year_GS():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     GS['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     GS['Close'].loc[start_date:end_date].plot(label= 'GS Close')
@@ -283,7 +283,7 @@ def average_for_some_day_against_some_year_GS():
 def average_for_some_day_against_some_year_HSBC():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     HSBC['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     HSBC['Close'].loc[start_date:end_date].plot(label= 'HSBC Close')
@@ -294,7 +294,7 @@ def average_for_some_day_against_some_year_HSBC():
 def average_for_some_day_against_some_year_MS():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     MS['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     MS['Close'].loc[start_date:end_date].plot(label= 'MS Close')
@@ -305,7 +305,7 @@ def average_for_some_day_against_some_year_MS():
 def average_for_some_day_against_some_year_WFC():
     start_date = input('input the start date in format YYYY-MM-DD')
     end_date = input('input the end date in format YYYY-MM-DD')
-    window = input("enter how many days average you want")
+    window = int(input("enter how many days average you want"))
     plt.figure(figsize=(12,4)) # to strech the plot
     WFC['Close'].loc[start_date:end_date].rolling(window=window).mean().plot(label="moving average")
     WFC['Close'].loc[start_date:end_date].plot(label= 'WFC Close')
