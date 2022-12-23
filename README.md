@@ -91,6 +91,6 @@ This project does have menu such as ---->
 
 # 9. Open your favourite stock data website.
 --> use voice assistant to open your favourite stock website
-eg. speak---> open Bombay Stock Exchange--->this will redirect you to thw web page of Bombay Stock Exchange
+eg. speak---> open Bombay Stock Exchange--->this will redirect you to the web page of Bombay Stock Exchange
 
 
