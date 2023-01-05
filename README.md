@@ -1,4 +1,4 @@
-# Banks stock voice assistant and visualizer
+# Banks stock analyzer and visualizer using voice
 
 # About Project
 
