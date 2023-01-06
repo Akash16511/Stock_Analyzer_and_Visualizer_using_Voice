@@ -8,7 +8,7 @@ This project does have menu such as ---->
 
           1. Everything about stock that you can view it , by giving command from your voice
           
-                  --> Max-min-average-standard devoation call for oprn , close ,high,low and volume
+                  --> Max-min-average-standard devoation call for open , close ,high,low and volume
                   
                   --> Returns-->average, max, min for all banks or each bank for specific date
                   
