@@ -34,7 +34,7 @@
 
 ## Data extraction of Max and min call for open,close etc.
 
-Eg. speak--> open maximum close call for all banks or anything you want !!.
+1. Eg. speak--> open maximum close call for all banks or anything you want !!.
 
 ![Screenshot 2022-12-22 125441](https://user-images.githubusercontent.com/86300718/209085477-11ea34c8-60a3-41b2-a0ec-9c8938d27862.png)
 
@@ -45,7 +45,7 @@ Eg. speak--> open maximum close call for all banks or anything you want !!.
 
 ## Data extraction and visualization of everything about Returns.
 
-Eg speak--> show the returns of all banks or show average returns of all banks.
+1. Eg speak--> show the returns of all banks or show average returns of all banks.
 
 ![returns for all bank](https://user-images.githubusercontent.com/86300718/209085691-64bdb3b7-72fd-498a-a2f2-3fdbc27934cb.png)
 
@@ -54,7 +54,7 @@ Eg speak--> show the returns of all banks or show average returns of all banks.
 
 ## Return plot for specific bank.
 
-Eg. speak --> show return plot for JPM (JP Morgan).
+1. Eg. speak --> show return plot for JPM (JP Morgan).
 
 ![Screenshot 2022-12-22 125949](https://user-images.githubusercontent.com/86300718/209086036-0a97c065-40ab-4242-ade3-a9902db17c3f.png)
 
@@ -88,6 +88,6 @@ Eg. speak --> show return plot for JPM (JP Morgan).
 
 **use voice assistant to open your favourite stock website**
 
-Eg. speak---> open Bombay Stock Exchange--->this will redirect you to the web page of Bombay Stock Exchange.
+1. Eg. speak---> open Bombay Stock Exchange--->this will redirect you to the web page of Bombay Stock Exchange.
 
 
